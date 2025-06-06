@@ -1,10 +1,10 @@
 -- schema
 
 
-drop database if exists dealership;
+drop database if exists cardealership;
 
-create database dealership;
-use dealership;
+create database cardealership;
+use cardealership;
 
 create table dealerships (
 	dealership_id int auto_increment primary key not null,

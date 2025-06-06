@@ -1,4 +1,4 @@
-use dealership;
+use cardealership;
 
 select *
 from dealerships;
